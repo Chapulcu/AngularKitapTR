@@ -1,0 +1,12 @@
+
+{
+  "name": "Angular 1.x",
+  "short_name": "AngularTR",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
